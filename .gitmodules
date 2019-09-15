@@ -1,0 +1,12 @@
+[submodule "pytlas-list"]
+	path = pytlas-list
+	url = https://github.com/atlassistant/pytlas-list
+[submodule "pytlas-blackjack"]
+	path = pytlas-blackjack
+	url = https://github.com/atlassistant/pytlas-blackjack
+[submodule "pytlas-clock"]
+	path = pytlas-clock
+	url = https://github.com/atlassistant/pytlas-clock
+[submodule "pytlas-help"]
+	path = pytlas-help
+	url = https://github.com/atlassistant/pytlas-help
