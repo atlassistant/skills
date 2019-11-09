@@ -10,3 +10,6 @@
 [submodule "pytlas-help"]
 	path = pytlas-help
 	url = https://github.com/atlassistant/pytlas-help
+[submodule "pytlas-interactive-fiction"]
+	path = pytlas-interactive-fiction
+	url = https://github.com/atlassistant/pytlas-interactive-fiction.git
